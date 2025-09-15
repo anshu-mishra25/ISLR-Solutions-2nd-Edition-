@@ -1,0 +1,15 @@
+# 1 Introduction {.unnumbered}
+
+This site is a personal documentation of the solutions of the book 'An Introduction to Statistical Learning with R' (2nd Edition)
+
+If you'd like to replicate the code, make sure to have 'ISLR2' package installed and running in the environment.
+
+```
+install.packages("ISLR2")
+library(ISLR2)
+```
+
+You can get the book from: <https://www.statlearning.com/>
+
+![](images/ISL-Cover.jpg){width=50% height=50%}
+

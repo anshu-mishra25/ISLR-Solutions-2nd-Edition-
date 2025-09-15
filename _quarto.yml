@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "ISLR Solutions (2nd Edition)"
+  author: "Anshu Mishra"
+  date: "9/15/2025"
+  chapters:
+    - index.qmd
+    - Ch02.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  
+editor: visual
+
